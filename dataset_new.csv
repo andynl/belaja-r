@@ -1,0 +1,535 @@
+"","tahun","kota_kabupaten","kecamatan","kelurahan","jenis_kelamin","jumlah"
+"1",2017,"Kab.Adm.Kep.Seribu","Kep. Seribu Utr","P. Panggang","Laki-laki",52
+"2",2017,"Kab.Adm.Kep.Seribu","Kep. Seribu Utr","P. Kelapa","Laki-laki",82
+"3",2017,"Kab.Adm.Kep.Seribu","Kep. Seribu Utr","P. Harapan","Laki-laki",16
+"4",2017,"Kab.Adm.Kep.Seribu","Kep. Seribu Slt","P. Untung Jawa","Laki-laki",18
+"5",2017,"Kab.Adm.Kep.Seribu","Kep. Seribu Slt","P. Tidung","Laki-laki",37
+"6",2017,"Kab.Adm.Kep.Seribu","Kep. Seribu Slt","P. Pari","Laki-laki",21
+"7",2017,"Jakarta Pusat","Gambir","Gambir","Laki-laki",11
+"8",2017,"Jakarta Pusat","Gambir","Cideng","Laki-laki",83
+"9",2017,"Jakarta Pusat","Gambir","Petojo Utara","Laki-laki",108
+"10",2017,"Jakarta Pusat","Gambir","Petojo Selatan","Laki-laki",125
+"11",2017,"Jakarta Pusat","Gambir","Kebon Kelapa","Laki-laki",45
+"12",2017,"Jakarta Pusat","Gambir","Duri Pulo","Laki-laki",130
+"13",2017,"Jakarta Pusat","Sawah Besar","Pasar Baru","Laki-laki",48
+"14",2017,"Jakarta Pusat","Sawah Besar","Karang Anyar","Laki-laki",194
+"15",2017,"Jakarta Pusat","Sawah Besar","Kartini","Laki-laki",137
+"16",2017,"Jakarta Pusat","Sawah Besar","Gunung Sahari Utara","Laki-laki",91
+"17",2017,"Jakarta Pusat","Sawah Besar","Mangga Dua Selatan","Laki-laki",207
+"18",2017,"Jakarta Pusat","Kemayoran","Kemayoran","Laki-laki",151
+"19",2017,"Jakarta Pusat","Kemayoran","Kebon Kosong","Laki-laki",211
+"20",2017,"Jakarta Pusat","Kemayoran","Harapan Mulia","Laki-laki",200
+"21",2017,"Jakarta Pusat","Kemayoran","Serdang","Laki-laki",233
+"22",2017,"Jakarta Pusat","Kemayoran","Gunung Sahari Selatan","Laki-laki",139
+"23",2017,"Jakarta Pusat","Kemayoran","Cempaka Baru","Laki-laki",285
+"24",2017,"Jakarta Pusat","Kemayoran","Sumur Batu","Laki-laki",164
+"25",2017,"Jakarta Pusat","Kemayoran","Utan Panjang","Laki-laki",244
+"26",2017,"Jakarta Pusat","Senen","Senen","Laki-laki",39
+"27",2017,"Jakarta Pusat","Senen","Kenari","Laki-laki",69
+"28",2017,"Jakarta Pusat","Senen","Paseban","Laki-laki",164
+"29",2017,"Jakarta Pusat","Senen","Kramat","Laki-laki",190
+"30",2017,"Jakarta Pusat","Senen","Kwitang","Laki-laki",101
+"31",2017,"Jakarta Pusat","Senen","Bungur","Laki-laki",150
+"32",2017,"Jakarta Pusat","Cempaka Putih","Cempaka Putih Timur","Laki-laki",153
+"33",2017,"Jakarta Pusat","Cempaka Putih","Cempaka Putih Barat","Laki-laki",254
+"34",2017,"Jakarta Pusat","Cempaka Putih","Rawasari","Laki-laki",174
+"35",2017,"Jakarta Pusat","Menteng","Menteng","Laki-laki",163
+"36",2017,"Jakarta Pusat","Menteng","Pegangsaan","Laki-laki",185
+"37",2017,"Jakarta Pusat","Menteng","Cikini","Laki-laki",51
+"38",2017,"Jakarta Pusat","Menteng","Gondangdia","Laki-laki",16
+"39",2017,"Jakarta Pusat","Menteng","Kebon Sirih","Laki-laki",73
+"40",2017,"Jakarta Pusat","Tanah Abang","Gelora","Laki-laki",27
+"41",2017,"Jakarta Pusat","Tanah Abang","Bendungan Hilir","Laki-laki",152
+"42",2017,"Jakarta Pusat","Tanah Abang","Karet Tengsin","Laki-laki",158
+"43",2017,"Jakarta Pusat","Tanah Abang","Petamburan","Laki-laki",271
+"44",2017,"Jakarta Pusat","Tanah Abang","Kebon Melati","Laki-laki",195
+"45",2017,"Jakarta Pusat","Tanah Abang","Kebon Kacang","Laki-laki",152
+"46",2017,"Jakarta Pusat","Tanah Abang","Kampung Bali","Laki-laki",76
+"47",2017,"Jakarta Pusat","Johar Baru","Johar Baru","Laki-laki",274
+"48",2017,"Jakarta Pusat","Johar Baru","Kampung Rawa","Laki-laki",164
+"49",2017,"Jakarta Pusat","Johar Baru","Galur","Laki-laki",150
+"50",2017,"Jakarta Pusat","Johar Baru","Tanah Tinggi","Laki-laki",298
+"51",2017,"Jakarta Utara","Penjaringan","Penjaringan","Laki-laki",802
+"52",2017,"Jakarta Utara","Penjaringan","Kamal Muara","Laki-laki",105
+"53",2017,"Jakarta Utara","Penjaringan","Kapuk Muara","Laki-laki",237
+"54",2017,"Jakarta Utara","Penjaringan","Pejagalan","Laki-laki",558
+"55",2017,"Jakarta Utara","Penjaringan","Pluit","Laki-laki",318
+"56",2017,"Jakarta Utara","Tanjung Priok","Tanjung Priok","Laki-laki",314
+"57",2017,"Jakarta Utara","Tanjung Priok","Sunter Jaya","Laki-laki",509
+"58",2017,"Jakarta Utara","Tanjung Priok","Papanggo","Laki-laki",320
+"59",2017,"Jakarta Utara","Tanjung Priok","Sungai Bambu","Laki-laki",295
+"60",2017,"Jakarta Utara","Tanjung Priok","Kebon Bawang","Laki-laki",496
+"61",2017,"Jakarta Utara","Tanjung Priok","Sunter Agung","Laki-laki",502
+"62",2017,"Jakarta Utara","Tanjung Priok","Warakas","Laki-laki",469
+"63",2017,"Jakarta Utara","Koja","Koja","Laki-laki",276
+"64",2017,"Jakarta Utara","Koja","Tugu Utara","Laki-laki",757
+"65",2017,"Jakarta Utara","Koja","Lagoa","Laki-laki",635
+"66",2017,"Jakarta Utara","Koja","Rawa Badak Utara","Laki-laki",355
+"67",2017,"Jakarta Utara","Koja","Tugu Selatan","Laki-laki",418
+"68",2017,"Jakarta Utara","Koja","Rawa Badak Selatan","Laki-laki",385
+"69",2017,"Jakarta Utara","Cilincing","Cilincing","Laki-laki",506
+"70",2017,"Jakarta Utara","Cilincing","Sukapura","Laki-laki",541
+"71",2017,"Jakarta Utara","Cilincing","Marunda","Laki-laki",262
+"72",2017,"Jakarta Utara","Cilincing","Kali Baru","Laki-laki",727
+"73",2017,"Jakarta Utara","Cilincing","Semper Timur","Laki-laki",322
+"74",2017,"Jakarta Utara","Cilincing","Rorotan","Laki-laki",407
+"75",2017,"Jakarta Utara","Cilincing","Semper Barat","Laki-laki",681
+"76",2017,"Jakarta Utara","Pademangan","Pademangan Timur","Laki-laki",301
+"77",2017,"Jakarta Utara","Pademangan","Pademangan Barat","Laki-laki",664
+"78",2017,"Jakarta Utara","Pademangan","Ancol","Laki-laki",212
+"79",2017,"Jakarta Utara","Kelapa Gading","Kelapa Gading Timur","Laki-laki",234
+"80",2017,"Jakarta Utara","Kelapa Gading","Pegangsaan Dua","Laki-laki",369
+"81",2017,"Jakarta Utara","Kelapa Gading","Kelapa Gading Barat","Laki-laki",241
+"82",2017,"Jakarta Barat","Cengkareng","Cengkareng Barat","Laki-laki",511
+"83",2017,"Jakarta Barat","Cengkareng","Duri Kosambi","Laki-laki",574
+"84",2017,"Jakarta Barat","Cengkareng","Rawa Buaya","Laki-laki",493
+"85",2017,"Jakarta Barat","Cengkareng","Kedaung Kali Angke","Laki-laki",288
+"86",2017,"Jakarta Barat","Cengkareng","Kapuk","Laki-laki",1000
+"87",2017,"Jakarta Barat","Cengkareng","Cengkareng Timur","Laki-laki",623
+"88",2017,"Jakarta Barat","Grogol Petamburan","Grogol","Laki-laki",110
+"89",2017,"Jakarta Barat","Grogol Petamburan","Tanjung Duren Utara","Laki-laki",112
+"90",2017,"Jakarta Barat","Grogol Petamburan","Tomang","Laki-laki",233
+"91",2017,"Jakarta Barat","Grogol Petamburan","Jelambar","Laki-laki",205
+"92",2017,"Jakarta Barat","Grogol Petamburan","Tanjung Duren Selatan","Laki-laki",196
+"93",2017,"Jakarta Barat","Grogol Petamburan","Jelambar Baru","Laki-laki",269
+"94",2017,"Jakarta Barat","Grogol Petamburan","Wijaya Kusuma","Laki-laki",291
+"95",2017,"Jakarta Barat","Taman Sari","Taman Sari","Laki-laki",77
+"96",2017,"Jakarta Barat","Taman Sari","Krukut","Laki-laki",160
+"97",2017,"Jakarta Barat","Taman Sari","Maphar","Laki-laki",114
+"98",2017,"Jakarta Barat","Taman Sari","Tangki","Laki-laki",86
+"99",2017,"Jakarta Barat","Taman Sari","Mangga Besar","Laki-laki",48
+"100",2017,"Jakarta Barat","Taman Sari","Keagungan","Laki-laki",129
+"101",2017,"Jakarta Barat","Taman Sari","Glodok","Laki-laki",39
+"102",2017,"Jakarta Barat","Taman Sari","Pinangsia","Laki-laki",78
+"103",2017,"Jakarta Barat","Tambora","Tambora","Laki-laki",78
+"104",2017,"Jakarta Barat","Tambora","Kali Anyar","Laki-laki",212
+"105",2017,"Jakarta Barat","Tambora","Duri Utara","Laki-laki",138
+"106",2017,"Jakarta Barat","Tambora","Tanah Sereal","Laki-laki",185
+"107",2017,"Jakarta Barat","Tambora","Kerendang","Laki-laki",145
+"108",2017,"Jakarta Barat","Tambora","Jembatan Besi","Laki-laki",231
+"109",2017,"Jakarta Barat","Tambora","Angke","Laki-laki",183
+"110",2017,"Jakarta Barat","Tambora","Jembatan Lima","Laki-laki",142
+"111",2017,"Jakarta Barat","Tambora","Pekojan","Laki-laki",158
+"112",2017,"Jakarta Barat","Tambora","Roa Malaka","Laki-laki",22
+"113",2017,"Jakarta Barat","Tambora","Duri Selatan","Laki-laki",92
+"114",2017,"Jakarta Barat","Kebon Jeruk","Kebon Jeruk","Laki-laki",441
+"115",2017,"Jakarta Barat","Kebon Jeruk","Sukabumi Utara","Laki-laki",338
+"116",2017,"Jakarta Barat","Kebon Jeruk","Sukabumi Selatan","Laki-laki",343
+"117",2017,"Jakarta Barat","Kebon Jeruk","Kelapa Dua","Laki-laki",177
+"118",2017,"Jakarta Barat","Kebon Jeruk","Duri Kepa","Laki-laki",435
+"119",2017,"Jakarta Barat","Kebon Jeruk","Kedoya Utara","Laki-laki",366
+"120",2017,"Jakarta Barat","Kebon Jeruk","Kedoya Selatan","Laki-laki",275
+"121",2017,"Jakarta Barat","Kali Deres","Kalideres","Laki-laki",559
+"122",2017,"Jakarta Barat","Kali Deres","Semanan","Laki-laki",618
+"123",2017,"Jakarta Barat","Kali Deres","Tegal Alur","Laki-laki",762
+"124",2017,"Jakarta Barat","Kali Deres","Kamal","Laki-laki",456
+"125",2017,"Jakarta Barat","Kali Deres","Pegadungan","Laki-laki",596
+"126",2017,"Jakarta Barat","Palmerah","Palmerah","Laki-laki",462
+"127",2017,"Jakarta Barat","Palmerah","Slipi","Laki-laki",122
+"128",2017,"Jakarta Barat","Palmerah","Kota Bambu Utara","Laki-laki",218
+"129",2017,"Jakarta Barat","Palmerah","Jati Pulo","Laki-laki",247
+"130",2017,"Jakarta Barat","Palmerah","Kemanggisan","Laki-laki",233
+"131",2017,"Jakarta Barat","Palmerah","Kota Bambu Selatan","Laki-laki",195
+"132",2017,"Jakarta Barat","Kembangan","Kembangan Utara","Laki-laki",465
+"133",2017,"Jakarta Barat","Kembangan","Meruya Utara","Laki-laki",331
+"134",2017,"Jakarta Barat","Kembangan","Meruya Selatan","Laki-laki",277
+"135",2017,"Jakarta Barat","Kembangan","Srengseng","Laki-laki",317
+"136",2017,"Jakarta Barat","Kembangan","Joglo","Laki-laki",348
+"137",2017,"Jakarta Barat","Kembangan","Kembangan Selatan","Laki-laki",225
+"138",2017,"Jakarta Selatan","Tebet","Tebet Timur","Laki-laki",93
+"139",2017,"Jakarta Selatan","Tebet","Tebet Barat","Laki-laki",153
+"140",2017,"Jakarta Selatan","Tebet","Menteng Dalam","Laki-laki",241
+"141",2017,"Jakarta Selatan","Tebet","Kebon Baru","Laki-laki",230
+"142",2017,"Jakarta Selatan","Tebet","Bukit Duri","Laki-laki",244
+"143",2017,"Jakarta Selatan","Tebet","Manggarai Selatan","Laki-laki",161
+"144",2017,"Jakarta Selatan","Tebet","Manggarai","Laki-laki",182
+"145",2017,"Jakarta Selatan","Setia Budi","Setia Budi","Laki-laki",24
+"146",2017,"Jakarta Selatan","Setia Budi","Karet Semanggi","Laki-laki",22
+"147",2017,"Jakarta Selatan","Setia Budi","Karet Kuningan","Laki-laki",89
+"148",2017,"Jakarta Selatan","Setia Budi","Karet","Laki-laki",74
+"149",2017,"Jakarta Selatan","Setia Budi","Menteng Atas","Laki-laki",209
+"150",2017,"Jakarta Selatan","Setia Budi","Pasar Manggis","Laki-laki",219
+"151",2017,"Jakarta Selatan","Setia Budi","Guntur","Laki-laki",17
+"152",2017,"Jakarta Selatan","Setia Budi","Kuningan Timur","Laki-laki",34
+"153",2017,"Jakarta Selatan","Mampang Prapatan","Mampang Prapatan","Laki-laki",139
+"154",2017,"Jakarta Selatan","Mampang Prapatan","Bangka","Laki-laki",149
+"155",2017,"Jakarta Selatan","Mampang Prapatan","Pela Mampang","Laki-laki",297
+"156",2017,"Jakarta Selatan","Mampang Prapatan","Tegal Parang","Laki-laki",249
+"157",2017,"Jakarta Selatan","Mampang Prapatan","Kuningan Barat","Laki-laki",99
+"158",2017,"Jakarta Selatan","Pasar Minggu","Pasar Minggu","Laki-laki",155
+"159",2017,"Jakarta Selatan","Pasar Minggu","Jati Padang","Laki-laki",268
+"160",2017,"Jakarta Selatan","Pasar Minggu","Cilandak Timur","Laki-laki",185
+"161",2017,"Jakarta Selatan","Pasar Minggu","Ragunan","Laki-laki",279
+"162",2017,"Jakarta Selatan","Pasar Minggu","Pejaten Timur","Laki-laki",440
+"163",2017,"Jakarta Selatan","Pasar Minggu","Pejaten Barat","Laki-laki",263
+"164",2017,"Jakarta Selatan","Pasar Minggu","Kebagusan","Laki-laki",344
+"165",2017,"Jakarta Selatan","Kebayoran Lama","Kebayoran Lama Utara","Laki-laki",284
+"166",2017,"Jakarta Selatan","Kebayoran Lama","Pondok Pinang","Laki-laki",323
+"167",2017,"Jakarta Selatan","Kebayoran Lama","Cipulir","Laki-laki",227
+"168",2017,"Jakarta Selatan","Kebayoran Lama","Grogol Utara","Laki-laki",245
+"169",2017,"Jakarta Selatan","Kebayoran Lama","Grogol Selatan","Laki-laki",249
+"170",2017,"Jakarta Selatan","Kebayoran Lama","Kebayoran Lama Selatan","Laki-laki",244
+"171",2017,"Jakarta Selatan","Cilandak","Cilandak Barat","Laki-laki",298
+"172",2017,"Jakarta Selatan","Cilandak","Lebak Bulus","Laki-laki",215
+"173",2017,"Jakarta Selatan","Cilandak","Pondok Labu","Laki-laki",261
+"174",2017,"Jakarta Selatan","Cilandak","Gandaria Selatan","Laki-laki",151
+"175",2017,"Jakarta Selatan","Cilandak","Cipete Selatan","Laki-laki",185
+"176",2017,"Jakarta Selatan","Kebayoran Baru","Melawai","Laki-laki",17
+"177",2017,"Jakarta Selatan","Kebayoran Baru","Gunung","Laki-laki",58
+"178",2017,"Jakarta Selatan","Kebayoran Baru","Kramat Pela","Laki-laki",94
+"179",2017,"Jakarta Selatan","Kebayoran Baru","Selong","Laki-laki",9
+"180",2017,"Jakarta Selatan","Kebayoran Baru","Rawa Barat","Laki-laki",39
+"181",2017,"Jakarta Selatan","Kebayoran Baru","Senayan","Laki-laki",14
+"182",2017,"Jakarta Selatan","Kebayoran Baru","Pulo","Laki-laki",26
+"183",2017,"Jakarta Selatan","Kebayoran Baru","Petogogan","Laki-laki",82
+"184",2017,"Jakarta Selatan","Kebayoran Baru","Gandaria Utara","Laki-laki",225
+"185",2017,"Jakarta Selatan","Kebayoran Baru","Cipete Utara","Laki-laki",188
+"186",2017,"Jakarta Selatan","Pancoran","Pancoran","Laki-laki",139
+"187",2017,"Jakarta Selatan","Pancoran","Kalibata","Laki-laki",282
+"188",2017,"Jakarta Selatan","Pancoran","Rawa Jati","Laki-laki",156
+"189",2017,"Jakarta Selatan","Pancoran","Duren Tiga","Laki-laki",188
+"190",2017,"Jakarta Selatan","Pancoran","Pengadegan","Laki-laki",172
+"191",2017,"Jakarta Selatan","Pancoran","Cikoko","Laki-laki",74
+"192",2017,"Jakarta Selatan","Jagakarsa","Jagakarsa","Laki-laki",488
+"193",2017,"Jakarta Selatan","Jagakarsa","Srengseng Sawah","Laki-laki",445
+"194",2017,"Jakarta Selatan","Jagakarsa","Ciganjur","Laki-laki",308
+"195",2017,"Jakarta Selatan","Jagakarsa","Lenteng Agung","Laki-laki",420
+"196",2017,"Jakarta Selatan","Jagakarsa","Tanjung Barat","Laki-laki",307
+"197",2017,"Jakarta Selatan","Jagakarsa","Cipedak","Laki-laki",303
+"198",2017,"Jakarta Selatan","Pesanggrahan","Pesanggrahan","Laki-laki",193
+"199",2017,"Jakarta Selatan","Pesanggrahan","Bintaro","Laki-laki",338
+"200",2017,"Jakarta Selatan","Pesanggrahan","Petukangan Utara","Laki-laki",413
+"201",2017,"Jakarta Selatan","Pesanggrahan","Petukangan Selatan","Laki-laki",287
+"202",2017,"Jakarta Selatan","Pesanggrahan","Ulujami","Laki-laki",296
+"203",2017,"Jakarta Timur","Matraman","Pisangan Baru","Laki-laki",241
+"204",2017,"Jakarta Timur","Matraman","Utan Kayu Utara","Laki-laki",186
+"205",2017,"Jakarta Timur","Matraman","Kayu Manis","Laki-laki",173
+"206",2017,"Jakarta Timur","Matraman","Pal Meriam","Laki-laki",138
+"207",2017,"Jakarta Timur","Matraman","Kebon Manggis","Laki-laki",102
+"208",2017,"Jakarta Timur","Matraman","Utan Kayu Selatan","Laki-laki",254
+"209",2017,"Jakarta Timur","Pulo Gadung","Pulo Gadung","Laki-laki",201
+"210",2017,"Jakarta Timur","Pulo Gadung","Pisangan Timur","Laki-laki",241
+"211",2017,"Jakarta Timur","Pulo Gadung","Cipinang","Laki-laki",291
+"212",2017,"Jakarta Timur","Pulo Gadung","Jatinegara Kaum","Laki-laki",202
+"213",2017,"Jakarta Timur","Pulo Gadung","Rawamangun","Laki-laki",233
+"214",2017,"Jakarta Timur","Pulo Gadung","Kayu Putih","Laki-laki",257
+"215",2017,"Jakarta Timur","Pulo Gadung","Jati","Laki-laki",197
+"216",2017,"Jakarta Timur","Jatinegara","Kampung Melayu","Laki-laki",188
+"217",2017,"Jakarta Timur","Jatinegara","Bidara Cina","Laki-laki",287
+"218",2017,"Jakarta Timur","Jatinegara","Bali Mester","Laki-laki",64
+"219",2017,"Jakarta Timur","Jatinegara","Rawa Bunga","Laki-laki",158
+"220",2017,"Jakarta Timur","Jatinegara","Cipinang Cempedak","Laki-laki",249
+"221",2017,"Jakarta Timur","Jatinegara","Cipinang Muara","Laki-laki",406
+"222",2017,"Jakarta Timur","Jatinegara","Cipinang Besar Selatan","Laki-laki",299
+"223",2017,"Jakarta Timur","Jatinegara","Cipinang Besar Utara","Laki-laki",318
+"224",2017,"Jakarta Timur","Kramat Jati","Kramat Jati","Laki-laki",251
+"225",2017,"Jakarta Timur","Kramat Jati","Kampung Tengah","Laki-laki",316
+"226",2017,"Jakarta Timur","Kramat Jati","Dukuh","Laki-laki",222
+"227",2017,"Jakarta Timur","Kramat Jati","Batu Ampar","Laki-laki",371
+"228",2017,"Jakarta Timur","Kramat Jati","Bale Kambang","Laki-laki",232
+"229",2017,"Jakarta Timur","Kramat Jati","Cililitan","Laki-laki",330
+"230",2017,"Jakarta Timur","Kramat Jati","Cawang","Laki-laki",236
+"231",2017,"Jakarta Timur","Pasar Rebo","Gedong","Laki-laki",301
+"232",2017,"Jakarta Timur","Pasar Rebo","Baru","Laki-laki",208
+"233",2017,"Jakarta Timur","Pasar Rebo","Cijantung","Laki-laki",352
+"234",2017,"Jakarta Timur","Pasar Rebo","Kalisari","Laki-laki",333
+"235",2017,"Jakarta Timur","Pasar Rebo","Pekayon","Laki-laki",348
+"236",2017,"Jakarta Timur","Cakung","Jatinegara","Laki-laki",666
+"237",2017,"Jakarta Timur","Cakung","Rawa Terate","Laki-laki",215
+"238",2017,"Jakarta Timur","Cakung","Penggilingan","Laki-laki",804
+"239",2017,"Jakarta Timur","Cakung","Cakung Timur","Laki-laki",563
+"240",2017,"Jakarta Timur","Cakung","Pulo Gebang","Laki-laki",702
+"241",2017,"Jakarta Timur","Cakung","Ujung Menteng","Laki-laki",247
+"242",2017,"Jakarta Timur","Cakung","Cakung Barat","Laki-laki",516
+"243",2017,"Jakarta Timur","Duren Sawit","Duren Sawit","Laki-laki",473
+"244",2017,"Jakarta Timur","Duren Sawit","Pondok Bambu","Laki-laki",470
+"245",2017,"Jakarta Timur","Duren Sawit","Klender","Laki-laki",507
+"246",2017,"Jakarta Timur","Duren Sawit","Pondok Kelapa","Laki-laki",559
+"247",2017,"Jakarta Timur","Duren Sawit","Malaka Sari","Laki-laki",172
+"248",2017,"Jakarta Timur","Duren Sawit","Malaka Jaya","Laki-laki",209
+"249",2017,"Jakarta Timur","Duren Sawit","Pondok Kopi","Laki-laki",266
+"250",2017,"Jakarta Timur","Makasar","Makasar","Laki-laki",303
+"251",2017,"Jakarta Timur","Makasar","Pinang Ranti","Laki-laki",228
+"252",2017,"Jakarta Timur","Makasar","Kebon Pala","Laki-laki",388
+"253",2017,"Jakarta Timur","Makasar","Halim Perdana Kusumah","Laki-laki",246
+"254",2017,"Jakarta Timur","Makasar","Cipinang Melayu","Laki-laki",309
+"255",2017,"Jakarta Timur","Ciracas","Ciracas","Laki-laki",490
+"256",2017,"Jakarta Timur","Ciracas","Cibubur","Laki-laki",498
+"257",2017,"Jakarta Timur","Ciracas","Kelapa Dua Wetan","Laki-laki",355
+"258",2017,"Jakarta Timur","Ciracas","Susukan","Laki-laki",291
+"259",2017,"Jakarta Timur","Ciracas","Rambutan","Laki-laki",245
+"260",2017,"Jakarta Timur","Cipayung","Cipayung","Laki-laki",207
+"261",2017,"Jakarta Timur","Cipayung","Cilangkap","Laki-laki",244
+"262",2017,"Jakarta Timur","Cipayung","Pondok Ranggon","Laki-laki",214
+"263",2017,"Jakarta Timur","Cipayung","Munjul","Laki-laki",186
+"264",2017,"Jakarta Timur","Cipayung","Setu","Laki-laki",157
+"265",2017,"Jakarta Timur","Cipayung","Bambu Apus","Laki-laki",170
+"266",2017,"Jakarta Timur","Cipayung","Lubang Buaya","Laki-laki",466
+"267",2017,"Jakarta Timur","Cipayung","Ceger","Laki-laki",145
+"268",2017,"Kab.Adm.Kep.Seribu","Kep. Seribu Utr","P. Panggang","Perempuan",53
+"269",2017,"Kab.Adm.Kep.Seribu","Kep. Seribu Utr","P. Kelapa","Perempuan",63
+"270",2017,"Kab.Adm.Kep.Seribu","Kep. Seribu Utr","P. Harapan","Perempuan",13
+"271",2017,"Kab.Adm.Kep.Seribu","Kep. Seribu Slt","P. Untung Jawa","Perempuan",20
+"272",2017,"Kab.Adm.Kep.Seribu","Kep. Seribu Slt","P. Tidung","Perempuan",45
+"273",2017,"Kab.Adm.Kep.Seribu","Kep. Seribu Slt","P. Pari","Perempuan",40
+"274",2017,"Jakarta Pusat","Gambir","Gambir","Perempuan",11
+"275",2017,"Jakarta Pusat","Gambir","Cideng","Perempuan",79
+"276",2017,"Jakarta Pusat","Gambir","Petojo Utara","Perempuan",125
+"277",2017,"Jakarta Pusat","Gambir","Petojo Selatan","Perempuan",98
+"278",2017,"Jakarta Pusat","Gambir","Kebon Kelapa","Perempuan",66
+"279",2017,"Jakarta Pusat","Gambir","Duri Pulo","Perempuan",124
+"280",2017,"Jakarta Pusat","Sawah Besar","Pasar Baru","Perempuan",67
+"281",2017,"Jakarta Pusat","Sawah Besar","Karang Anyar","Perempuan",142
+"282",2017,"Jakarta Pusat","Sawah Besar","Kartini","Perempuan",115
+"283",2017,"Jakarta Pusat","Sawah Besar","Gunung Sahari Utara","Perempuan",82
+"284",2017,"Jakarta Pusat","Sawah Besar","Mangga Dua Selatan","Perempuan",205
+"285",2017,"Jakarta Pusat","Kemayoran","Kemayoran","Perempuan",161
+"286",2017,"Jakarta Pusat","Kemayoran","Kebon Kosong","Perempuan",186
+"287",2017,"Jakarta Pusat","Kemayoran","Harapan Mulia","Perempuan",172
+"288",2017,"Jakarta Pusat","Kemayoran","Serdang","Perempuan",185
+"289",2017,"Jakarta Pusat","Kemayoran","Gunung Sahari Selatan","Perempuan",123
+"290",2017,"Jakarta Pusat","Kemayoran","Cempaka Baru","Perempuan",232
+"291",2017,"Jakarta Pusat","Kemayoran","Sumur Batu","Perempuan",161
+"292",2017,"Jakarta Pusat","Kemayoran","Utan Panjang","Perempuan",235
+"293",2017,"Jakarta Pusat","Senen","Senen","Perempuan",38
+"294",2017,"Jakarta Pusat","Senen","Kenari","Perempuan",54
+"295",2017,"Jakarta Pusat","Senen","Paseban","Perempuan",172
+"296",2017,"Jakarta Pusat","Senen","Kramat","Perempuan",204
+"297",2017,"Jakarta Pusat","Senen","Kwitang","Perempuan",110
+"298",2017,"Jakarta Pusat","Senen","Bungur","Perempuan",139
+"299",2017,"Jakarta Pusat","Cempaka Putih","Cempaka Putih Timur","Perempuan",142
+"300",2017,"Jakarta Pusat","Cempaka Putih","Cempaka Putih Barat","Perempuan",234
+"301",2017,"Jakarta Pusat","Cempaka Putih","Rawasari","Perempuan",141
+"302",2017,"Jakarta Pusat","Menteng","Menteng","Perempuan",144
+"303",2017,"Jakarta Pusat","Menteng","Pegangsaan","Perempuan",135
+"304",2017,"Jakarta Pusat","Menteng","Cikini","Perempuan",46
+"305",2017,"Jakarta Pusat","Menteng","Gondangdia","Perempuan",24
+"306",2017,"Jakarta Pusat","Menteng","Kebon Sirih","Perempuan",85
+"307",2017,"Jakarta Pusat","Tanah Abang","Gelora","Perempuan",10
+"308",2017,"Jakarta Pusat","Tanah Abang","Bendungan Hilir","Perempuan",124
+"309",2017,"Jakarta Pusat","Tanah Abang","Karet Tengsin","Perempuan",126
+"310",2017,"Jakarta Pusat","Tanah Abang","Petamburan","Perempuan",263
+"311",2017,"Jakarta Pusat","Tanah Abang","Kebon Melati","Perempuan",219
+"312",2017,"Jakarta Pusat","Tanah Abang","Kebon Kacang","Perempuan",137
+"313",2017,"Jakarta Pusat","Tanah Abang","Kampung Bali","Perempuan",93
+"314",2017,"Jakarta Pusat","Johar Baru","Johar Baru","Perempuan",234
+"315",2017,"Jakarta Pusat","Johar Baru","Kampung Rawa","Perempuan",177
+"316",2017,"Jakarta Pusat","Johar Baru","Galur","Perempuan",153
+"317",2017,"Jakarta Pusat","Johar Baru","Tanah Tinggi","Perempuan",274
+"318",2017,"Jakarta Utara","Penjaringan","Penjaringan","Perempuan",711
+"319",2017,"Jakarta Utara","Penjaringan","Kamal Muara","Perempuan",79
+"320",2017,"Jakarta Utara","Penjaringan","Kapuk Muara","Perempuan",255
+"321",2017,"Jakarta Utara","Penjaringan","Pejagalan","Perempuan",498
+"322",2017,"Jakarta Utara","Penjaringan","Pluit","Perempuan",313
+"323",2017,"Jakarta Utara","Tanjung Priok","Tanjung Priok","Perempuan",285
+"324",2017,"Jakarta Utara","Tanjung Priok","Sunter Jaya","Perempuan",466
+"325",2017,"Jakarta Utara","Tanjung Priok","Papanggo","Perempuan",294
+"326",2017,"Jakarta Utara","Tanjung Priok","Sungai Bambu","Perempuan",248
+"327",2017,"Jakarta Utara","Tanjung Priok","Kebon Bawang","Perempuan",456
+"328",2017,"Jakarta Utara","Tanjung Priok","Sunter Agung","Perempuan",525
+"329",2017,"Jakarta Utara","Tanjung Priok","Warakas","Perempuan",394
+"330",2017,"Jakarta Utara","Koja","Koja","Perempuan",265
+"331",2017,"Jakarta Utara","Koja","Tugu Utara","Perempuan",715
+"332",2017,"Jakarta Utara","Koja","Lagoa","Perempuan",528
+"333",2017,"Jakarta Utara","Koja","Rawa Badak Utara","Perempuan",320
+"334",2017,"Jakarta Utara","Koja","Tugu Selatan","Perempuan",392
+"335",2017,"Jakarta Utara","Koja","Rawa Badak Selatan","Perempuan",376
+"336",2017,"Jakarta Utara","Cilincing","Cilincing","Perempuan",453
+"337",2017,"Jakarta Utara","Cilincing","Sukapura","Perempuan",465
+"338",2017,"Jakarta Utara","Cilincing","Marunda","Perempuan",299
+"339",2017,"Jakarta Utara","Cilincing","Kali Baru","Perempuan",686
+"340",2017,"Jakarta Utara","Cilincing","Semper Timur","Perempuan",329
+"341",2017,"Jakarta Utara","Cilincing","Rorotan","Perempuan",386
+"342",2017,"Jakarta Utara","Cilincing","Semper Barat","Perempuan",659
+"343",2017,"Jakarta Utara","Pademangan","Pademangan Timur","Perempuan",259
+"344",2017,"Jakarta Utara","Pademangan","Pademangan Barat","Perempuan",625
+"345",2017,"Jakarta Utara","Pademangan","Ancol","Perempuan",206
+"346",2017,"Jakarta Utara","Kelapa Gading","Kelapa Gading Timur","Perempuan",199
+"347",2017,"Jakarta Utara","Kelapa Gading","Pegangsaan Dua","Perempuan",362
+"348",2017,"Jakarta Utara","Kelapa Gading","Kelapa Gading Barat","Perempuan",225
+"349",2017,"Jakarta Barat","Cengkareng","Cengkareng Barat","Perempuan",481
+"350",2017,"Jakarta Barat","Cengkareng","Duri Kosambi","Perempuan",601
+"351",2017,"Jakarta Barat","Cengkareng","Rawa Buaya","Perempuan",449
+"352",2017,"Jakarta Barat","Cengkareng","Kedaung Kali Angke","Perempuan",237
+"353",2017,"Jakarta Barat","Cengkareng","Kapuk","Perempuan",949
+"354",2017,"Jakarta Barat","Cengkareng","Cengkareng Timur","Perempuan",546
+"355",2017,"Jakarta Barat","Grogol Petamburan","Grogol","Perempuan",110
+"356",2017,"Jakarta Barat","Grogol Petamburan","Tanjung Duren Utara","Perempuan",101
+"357",2017,"Jakarta Barat","Grogol Petamburan","Tomang","Perempuan",191
+"358",2017,"Jakarta Barat","Grogol Petamburan","Jelambar","Perempuan",188
+"359",2017,"Jakarta Barat","Grogol Petamburan","Tanjung Duren Selatan","Perempuan",194
+"360",2017,"Jakarta Barat","Grogol Petamburan","Jelambar Baru","Perempuan",238
+"361",2017,"Jakarta Barat","Grogol Petamburan","Wijaya Kusuma","Perempuan",283
+"362",2017,"Jakarta Barat","Taman Sari","Taman Sari","Perempuan",111
+"363",2017,"Jakarta Barat","Taman Sari","Krukut","Perempuan",139
+"364",2017,"Jakarta Barat","Taman Sari","Maphar","Perempuan",95
+"365",2017,"Jakarta Barat","Taman Sari","Tangki","Perempuan",79
+"366",2017,"Jakarta Barat","Taman Sari","Mangga Besar","Perempuan",28
+"367",2017,"Jakarta Barat","Taman Sari","Keagungan","Perempuan",120
+"368",2017,"Jakarta Barat","Taman Sari","Glodok","Perempuan",35
+"369",2017,"Jakarta Barat","Taman Sari","Pinangsia","Perempuan",61
+"370",2017,"Jakarta Barat","Tambora","Tambora","Perempuan",64
+"371",2017,"Jakarta Barat","Tambora","Kali Anyar","Perempuan",206
+"372",2017,"Jakarta Barat","Tambora","Duri Utara","Perempuan",128
+"373",2017,"Jakarta Barat","Tambora","Tanah Sereal","Perempuan",180
+"374",2017,"Jakarta Barat","Tambora","Kerendang","Perempuan",153
+"375",2017,"Jakarta Barat","Tambora","Jembatan Besi","Perempuan",206
+"376",2017,"Jakarta Barat","Tambora","Angke","Perempuan",173
+"377",2017,"Jakarta Barat","Tambora","Jembatan Lima","Perempuan",158
+"378",2017,"Jakarta Barat","Tambora","Pekojan","Perempuan",170
+"379",2017,"Jakarta Barat","Tambora","Roa Malaka","Perempuan",12
+"380",2017,"Jakarta Barat","Tambora","Duri Selatan","Perempuan",100
+"381",2017,"Jakarta Barat","Kebon Jeruk","Kebon Jeruk","Perempuan",407
+"382",2017,"Jakarta Barat","Kebon Jeruk","Sukabumi Utara","Perempuan",305
+"383",2017,"Jakarta Barat","Kebon Jeruk","Sukabumi Selatan","Perempuan",290
+"384",2017,"Jakarta Barat","Kebon Jeruk","Kelapa Dua","Perempuan",152
+"385",2017,"Jakarta Barat","Kebon Jeruk","Duri Kepa","Perempuan",451
+"386",2017,"Jakarta Barat","Kebon Jeruk","Kedoya Utara","Perempuan",310
+"387",2017,"Jakarta Barat","Kebon Jeruk","Kedoya Selatan","Perempuan",245
+"388",2017,"Jakarta Barat","Kali Deres","Kalideres","Perempuan",573
+"389",2017,"Jakarta Barat","Kali Deres","Semanan","Perempuan",597
+"390",2017,"Jakarta Barat","Kali Deres","Tegal Alur","Perempuan",643
+"391",2017,"Jakarta Barat","Kali Deres","Kamal","Perempuan",420
+"392",2017,"Jakarta Barat","Kali Deres","Pegadungan","Perempuan",549
+"393",2017,"Jakarta Barat","Palmerah","Palmerah","Perempuan",472
+"394",2017,"Jakarta Barat","Palmerah","Slipi","Perempuan",119
+"395",2017,"Jakarta Barat","Palmerah","Kota Bambu Utara","Perempuan",190
+"396",2017,"Jakarta Barat","Palmerah","Jati Pulo","Perempuan",219
+"397",2017,"Jakarta Barat","Palmerah","Kemanggisan","Perempuan",218
+"398",2017,"Jakarta Barat","Palmerah","Kota Bambu Selatan","Perempuan",175
+"399",2017,"Jakarta Barat","Kembangan","Kembangan Utara","Perempuan",419
+"400",2017,"Jakarta Barat","Kembangan","Meruya Utara","Perempuan",304
+"401",2017,"Jakarta Barat","Kembangan","Meruya Selatan","Perempuan",247
+"402",2017,"Jakarta Barat","Kembangan","Srengseng","Perempuan",379
+"403",2017,"Jakarta Barat","Kembangan","Joglo","Perempuan",265
+"404",2017,"Jakarta Barat","Kembangan","Kembangan Selatan","Perempuan",203
+"405",2017,"Jakarta Selatan","Tebet","Tebet Timur","Perempuan",84
+"406",2017,"Jakarta Selatan","Tebet","Tebet Barat","Perempuan",129
+"407",2017,"Jakarta Selatan","Tebet","Menteng Dalam","Perempuan",229
+"408",2017,"Jakarta Selatan","Tebet","Kebon Baru","Perempuan",244
+"409",2017,"Jakarta Selatan","Tebet","Bukit Duri","Perempuan",219
+"410",2017,"Jakarta Selatan","Tebet","Manggarai Selatan","Perempuan",194
+"411",2017,"Jakarta Selatan","Tebet","Manggarai","Perempuan",190
+"412",2017,"Jakarta Selatan","Setia Budi","Setia Budi","Perempuan",16
+"413",2017,"Jakarta Selatan","Setia Budi","Karet Semanggi","Perempuan",12
+"414",2017,"Jakarta Selatan","Setia Budi","Karet Kuningan","Perempuan",100
+"415",2017,"Jakarta Selatan","Setia Budi","Karet","Perempuan",58
+"416",2017,"Jakarta Selatan","Setia Budi","Menteng Atas","Perempuan",199
+"417",2017,"Jakarta Selatan","Setia Budi","Pasar Manggis","Perempuan",205
+"418",2017,"Jakarta Selatan","Setia Budi","Guntur","Perempuan",22
+"419",2017,"Jakarta Selatan","Setia Budi","Kuningan Timur","Perempuan",45
+"420",2017,"Jakarta Selatan","Mampang Prapatan","Mampang Prapatan","Perempuan",139
+"421",2017,"Jakarta Selatan","Mampang Prapatan","Bangka","Perempuan",155
+"422",2017,"Jakarta Selatan","Mampang Prapatan","Pela Mampang","Perempuan",252
+"423",2017,"Jakarta Selatan","Mampang Prapatan","Tegal Parang","Perempuan",239
+"424",2017,"Jakarta Selatan","Mampang Prapatan","Kuningan Barat","Perempuan",97
+"425",2017,"Jakarta Selatan","Pasar Minggu","Pasar Minggu","Perempuan",162
+"426",2017,"Jakarta Selatan","Pasar Minggu","Jati Padang","Perempuan",251
+"427",2017,"Jakarta Selatan","Pasar Minggu","Cilandak Timur","Perempuan",187
+"428",2017,"Jakarta Selatan","Pasar Minggu","Ragunan","Perempuan",258
+"429",2017,"Jakarta Selatan","Pasar Minggu","Pejaten Timur","Perempuan",397
+"430",2017,"Jakarta Selatan","Pasar Minggu","Pejaten Barat","Perempuan",260
+"431",2017,"Jakarta Selatan","Pasar Minggu","Kebagusan","Perempuan",323
+"432",2017,"Jakarta Selatan","Kebayoran Lama","Kebayoran Lama Utara","Perempuan",231
+"433",2017,"Jakarta Selatan","Kebayoran Lama","Pondok Pinang","Perempuan",273
+"434",2017,"Jakarta Selatan","Kebayoran Lama","Cipulir","Perempuan",225
+"435",2017,"Jakarta Selatan","Kebayoran Lama","Grogol Utara","Perempuan",235
+"436",2017,"Jakarta Selatan","Kebayoran Lama","Grogol Selatan","Perempuan",234
+"437",2017,"Jakarta Selatan","Kebayoran Lama","Kebayoran Lama Selatan","Perempuan",257
+"438",2017,"Jakarta Selatan","Cilandak","Cilandak Barat","Perempuan",283
+"439",2017,"Jakarta Selatan","Cilandak","Lebak Bulus","Perempuan",226
+"440",2017,"Jakarta Selatan","Cilandak","Pondok Labu","Perempuan",231
+"441",2017,"Jakarta Selatan","Cilandak","Gandaria Selatan","Perempuan",162
+"442",2017,"Jakarta Selatan","Cilandak","Cipete Selatan","Perempuan",174
+"443",2017,"Jakarta Selatan","Kebayoran Baru","Melawai","Perempuan",12
+"444",2017,"Jakarta Selatan","Kebayoran Baru","Gunung","Perempuan",38
+"445",2017,"Jakarta Selatan","Kebayoran Baru","Kramat Pela","Perempuan",85
+"446",2017,"Jakarta Selatan","Kebayoran Baru","Selong","Perempuan",14
+"447",2017,"Jakarta Selatan","Kebayoran Baru","Rawa Barat","Perempuan",38
+"448",2017,"Jakarta Selatan","Kebayoran Baru","Senayan","Perempuan",10
+"449",2017,"Jakarta Selatan","Kebayoran Baru","Pulo","Perempuan",25
+"450",2017,"Jakarta Selatan","Kebayoran Baru","Petogogan","Perempuan",85
+"451",2017,"Jakarta Selatan","Kebayoran Baru","Gandaria Utara","Perempuan",232
+"452",2017,"Jakarta Selatan","Kebayoran Baru","Cipete Utara","Perempuan",221
+"453",2017,"Jakarta Selatan","Pancoran","Pancoran","Perempuan",136
+"454",2017,"Jakarta Selatan","Pancoran","Kalibata","Perempuan",297
+"455",2017,"Jakarta Selatan","Pancoran","Rawa Jati","Perempuan",170
+"456",2017,"Jakarta Selatan","Pancoran","Duren Tiga","Perempuan",179
+"457",2017,"Jakarta Selatan","Pancoran","Pengadegan","Perempuan",126
+"458",2017,"Jakarta Selatan","Pancoran","Cikoko","Perempuan",74
+"459",2017,"Jakarta Selatan","Jagakarsa","Jagakarsa","Perempuan",440
+"460",2017,"Jakarta Selatan","Jagakarsa","Srengseng Sawah","Perempuan",421
+"461",2017,"Jakarta Selatan","Jagakarsa","Ciganjur","Perempuan",293
+"462",2017,"Jakarta Selatan","Jagakarsa","Lenteng Agung","Perempuan",373
+"463",2017,"Jakarta Selatan","Jagakarsa","Tanjung Barat","Perempuan",266
+"464",2017,"Jakarta Selatan","Jagakarsa","Cipedak","Perempuan",289
+"465",2017,"Jakarta Selatan","Pesanggrahan","Pesanggrahan","Perempuan",163
+"466",2017,"Jakarta Selatan","Pesanggrahan","Bintaro","Perempuan",316
+"467",2017,"Jakarta Selatan","Pesanggrahan","Petukangan Utara","Perempuan",387
+"468",2017,"Jakarta Selatan","Pesanggrahan","Petukangan Selatan","Perempuan",287
+"469",2017,"Jakarta Selatan","Pesanggrahan","Ulujami","Perempuan",308
+"470",2017,"Jakarta Timur","Matraman","Pisangan Baru","Perempuan",190
+"471",2017,"Jakarta Timur","Matraman","Utan Kayu Utara","Perempuan",181
+"472",2017,"Jakarta Timur","Matraman","Kayu Manis","Perempuan",154
+"473",2017,"Jakarta Timur","Matraman","Pal Meriam","Perempuan",146
+"474",2017,"Jakarta Timur","Matraman","Kebon Manggis","Perempuan",87
+"475",2017,"Jakarta Timur","Matraman","Utan Kayu Selatan","Perempuan",234
+"476",2017,"Jakarta Timur","Pulo Gadung","Pulo Gadung","Perempuan",209
+"477",2017,"Jakarta Timur","Pulo Gadung","Pisangan Timur","Perempuan",264
+"478",2017,"Jakarta Timur","Pulo Gadung","Cipinang","Perempuan",254
+"479",2017,"Jakarta Timur","Pulo Gadung","Jatinegara Kaum","Perempuan",170
+"480",2017,"Jakarta Timur","Pulo Gadung","Rawamangun","Perempuan",242
+"481",2017,"Jakarta Timur","Pulo Gadung","Kayu Putih","Perempuan",229
+"482",2017,"Jakarta Timur","Pulo Gadung","Jati","Perempuan",196
+"483",2017,"Jakarta Timur","Jatinegara","Kampung Melayu","Perempuan",192
+"484",2017,"Jakarta Timur","Jatinegara","Bidara Cina","Perempuan",229
+"485",2017,"Jakarta Timur","Jatinegara","Bali Mester","Perempuan",59
+"486",2017,"Jakarta Timur","Jatinegara","Rawa Bunga","Perempuan",151
+"487",2017,"Jakarta Timur","Jatinegara","Cipinang Cempedak","Perempuan",196
+"488",2017,"Jakarta Timur","Jatinegara","Cipinang Muara","Perempuan",422
+"489",2017,"Jakarta Timur","Jatinegara","Cipinang Besar Selatan","Perempuan",271
+"490",2017,"Jakarta Timur","Jatinegara","Cipinang Besar Utara","Perempuan",297
+"491",2017,"Jakarta Timur","Kramat Jati","Kramat Jati","Perempuan",223
+"492",2017,"Jakarta Timur","Kramat Jati","Kampung Tengah","Perempuan",308
+"493",2017,"Jakarta Timur","Kramat Jati","Dukuh","Perempuan",197
+"494",2017,"Jakarta Timur","Kramat Jati","Batu Ampar","Perempuan",342
+"495",2017,"Jakarta Timur","Kramat Jati","Bale Kambang","Perempuan",205
+"496",2017,"Jakarta Timur","Kramat Jati","Cililitan","Perempuan",300
+"497",2017,"Jakarta Timur","Kramat Jati","Cawang","Perempuan",211
+"498",2017,"Jakarta Timur","Pasar Rebo","Gedong","Perempuan",301
+"499",2017,"Jakarta Timur","Pasar Rebo","Baru","Perempuan",216
+"500",2017,"Jakarta Timur","Pasar Rebo","Cijantung","Perempuan",286
+"501",2017,"Jakarta Timur","Pasar Rebo","Kalisari","Perempuan",320
+"502",2017,"Jakarta Timur","Pasar Rebo","Pekayon","Perempuan",367
+"503",2017,"Jakarta Timur","Cakung","Jatinegara","Perempuan",576
+"504",2017,"Jakarta Timur","Cakung","Rawa Terate","Perempuan",204
+"505",2017,"Jakarta Timur","Cakung","Penggilingan","Perempuan",716
+"506",2017,"Jakarta Timur","Cakung","Cakung Timur","Perempuan",500
+"507",2017,"Jakarta Timur","Cakung","Pulo Gebang","Perempuan",621
+"508",2017,"Jakarta Timur","Cakung","Ujung Menteng","Perempuan",211
+"509",2017,"Jakarta Timur","Cakung","Cakung Barat","Perempuan",440
+"510",2017,"Jakarta Timur","Duren Sawit","Duren Sawit","Perempuan",422
+"511",2017,"Jakarta Timur","Duren Sawit","Pondok Bambu","Perempuan",407
+"512",2017,"Jakarta Timur","Duren Sawit","Klender","Perempuan",515
+"513",2017,"Jakarta Timur","Duren Sawit","Pondok Kelapa","Perempuan",484
+"514",2017,"Jakarta Timur","Duren Sawit","Malaka Sari","Perempuan",203
+"515",2017,"Jakarta Timur","Duren Sawit","Malaka Jaya","Perempuan",209
+"516",2017,"Jakarta Timur","Duren Sawit","Pondok Kopi","Perempuan",261
+"517",2017,"Jakarta Timur","Makasar","Makasar","Perempuan",280
+"518",2017,"Jakarta Timur","Makasar","Pinang Ranti","Perempuan",207
+"519",2017,"Jakarta Timur","Makasar","Kebon Pala","Perempuan",342
+"520",2017,"Jakarta Timur","Makasar","Halim Perdana Kusumah","Perempuan",225
+"521",2017,"Jakarta Timur","Makasar","Cipinang Melayu","Perempuan",306
+"522",2017,"Jakarta Timur","Ciracas","Ciracas","Perempuan",440
+"523",2017,"Jakarta Timur","Ciracas","Cibubur","Perempuan",440
+"524",2017,"Jakarta Timur","Ciracas","Kelapa Dua Wetan","Perempuan",305
+"525",2017,"Jakarta Timur","Ciracas","Susukan","Perempuan",257
+"526",2017,"Jakarta Timur","Ciracas","Rambutan","Perempuan",237
+"527",2017,"Jakarta Timur","Cipayung","Cipayung","Perempuan",182
+"528",2017,"Jakarta Timur","Cipayung","Cilangkap","Perempuan",223
+"529",2017,"Jakarta Timur","Cipayung","Pondok Ranggon","Perempuan",197
+"530",2017,"Jakarta Timur","Cipayung","Munjul","Perempuan",170
+"531",2017,"Jakarta Timur","Cipayung","Setu","Perempuan",150
+"532",2017,"Jakarta Timur","Cipayung","Bambu Apus","Perempuan",188
+"533",2017,"Jakarta Timur","Cipayung","Lubang Buaya","Perempuan",448
+"534",2017,"Jakarta Timur","Cipayung","Ceger","Perempuan",134
