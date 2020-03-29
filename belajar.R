@@ -47,6 +47,24 @@ users <- data.frame(
 
 l = list(a,names,users)
 
+library(dplyr)
+
 dataset <- read.csv('dataset-kelahiran.csv')
 
 write.csv(dataset, 'dataset_new.csv')
+
+dataset_result <- select(dataset, -c(tahun, kota_kabupaten))
+
+select(dataset, c(tahun, jumlah))
+
+dataset_filter_result <- filter(dataset, tahun == '2017', jumlah > 100)
+
+dataset_mutate_result <- mutate(dataset, avg_test = tahun - jumlah)
+
+dataset_transmute_result <- transmute(dataset, avg_test = tahun - jumlah)
+
+dataset3 <- dataset
+
+dataset3avg_test <- transmute(dataset, avg_test = tahun - jumlah)
+
+
